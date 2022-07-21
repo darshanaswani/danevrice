@@ -4,7 +4,7 @@
 		<div class="wow fadeInUp animated copyright">
 			<div class="container">
 				<div class="scrollToTop scrolltop"><i aria-hidden="true" class="fa fa-angle-up"></i></div>
-				<p>Copyright &copy; 2016 <a href="index.html">DANEV RICE</a>. All Rights Reserved.</p>
+				<p>Copyright &copy; 2016 <a href="index.php">DANEV RICE</a>. All Rights Reserved.</p>
 			</div>
 		</div>
 	</footer>

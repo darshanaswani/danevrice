@@ -2,7 +2,7 @@
 	<header class="site-header">
 		<div class="container">	
 			<div class="logo ">
-				<a href="index.html"><img src="images/main-logo.png" title="DANEV RICE" width="300" height="75" alt="" /></a>
+				<a href="index.php"><img src="images/main-logo.png" title="DANEV RICE" width="300" height="75" alt="" /></a>
 			</div>
 			<div class="menu_tog">
 				<div class="trigger_icon">
@@ -29,16 +29,16 @@
 						<div class="close_button">x</div>
 						<ul class="primary-menu nav">
 							<li class="menu-item">
-								<a <?php if($activemenu == 1) {echo 'class="active"';} ?> href="index">Home</a>
+								<a <?php if($activemenu == 1) {echo 'class="active"';} ?> href="index.php">Home</a>
 							</li>          
 							<li class="menu-item ">
-								<a <?php if($activemenu == 2) {echo 'class="active"';} ?> href="about-us">About Us</a>
+								<a <?php if($activemenu == 2) {echo 'class="active"';} ?> href="about-us.php">About Us</a>
 							</li>           
 							<li class="menu-item ">
-								<a <?php if($activemenu == 3) {echo 'class="active"';} ?> href="product">Products</a>
+								<a <?php if($activemenu == 3) {echo 'class="active"';} ?> href="product.php">Products</a>
 							</li>           
 							<li class="menu-item ">
-								<a <?php if($activemenu == 4) {echo 'class="active"';} ?> href="contact-us">Contact Us</a>
+								<a <?php if($activemenu == 4) {echo 'class="active"';} ?> href="contact-us.php">Contact Us</a>
 							</li>                
 						</ul>
 					</nav>
